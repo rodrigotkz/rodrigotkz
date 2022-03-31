@@ -1,5 +1,5 @@
 - 👋 Olá! sou o Rodrigo Takazono. 
-- 👀 No momento ainda sou iniciante, mas tenho interesse em ser um programador de ponta! e futuramente quem sabe ir para área de Hacking!
+- 👀 No momento ainda sou iniciante em programação, mas tenho interesse em ser um programador de ponta! e futuramente quem sabe ir para área de Hacking!
 - 🌱 Atualmente estou fazendo faculdade na área de T.i, e realizando alguns cursos por fora para ganhar experiência. 
 - 📫 Moro em São Paulo, Zona Sul capital! 
 
