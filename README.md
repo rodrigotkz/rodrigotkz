@@ -23,10 +23,6 @@
 	  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 		<img align="center" alt="digo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	  </a>
-    <a href="https://reactjs.org/">	
-		<img align="center" alt="digo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    </a>
-
 
 </div>
 <!---
