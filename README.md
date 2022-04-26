@@ -8,7 +8,7 @@
 
 📫 Nasci e moro em São Paulo, capital.
 
-</br><br>
+
 <div align="center">
 	<div style="display:inline_block">
 	<a href="https://docs.python.org/3/" target="_blank">
@@ -23,6 +23,7 @@
 	  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 		<img align="center" alt="digo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	  </a>
+     </br><br>
 
 </div>
 
