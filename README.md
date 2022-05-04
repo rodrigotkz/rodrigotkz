@@ -36,6 +36,8 @@
   <a href="mailto:digotakazono12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 ![Rodrigotkz GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigotkz&show_icons=true&theme=onedark)
 <!---
 rodrigotkz/rodrigotkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
