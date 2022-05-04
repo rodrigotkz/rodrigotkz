@@ -1,3 +1,4 @@
+
 👋 Hey!! Me chamo Rodrigo Takazono ✌️
 
 💡 No momento ainda sou iniciante em programação, mas almejo ser um desenvolvedor de ponta e estou trabalhando pra isso! 
