@@ -24,7 +24,8 @@
 	  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 		<img align="center" alt="digo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	  </a>
-     
+
+## 
 
 </div>
 
@@ -35,7 +36,6 @@
   <a href="mailto:digotakazono12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
 
 ![Rodrigotkz GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigotkz&show_icons=true&theme=onedark)
 <!---
