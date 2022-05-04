@@ -1,9 +1,9 @@
 
-👋 Hey!! Me chamo Rodrigo Takazono ✌️
+👋 Olá!! Eu sou o Rodrigo Takazono ✌️
 
-💡 No momento ainda sou iniciante em programação, mas almejo ser um desenvolvedor de ponta e estou trabalhando pra isso! 
+💡 No momento ainda sou iniciante em programação, mas estou em busca do meu sonho em me tornar um grande programador! 👨🏻💻
 
-👀 Tenho bastante curiosidade na área Hacking, quero me aproximar mais com o tempo.
+👀 Tenho bastante curiosidade na área Hacking, pretendo me aproximar mais com o tempo.
 
 🌱 Atualmente curso Gestão em Tecnologia da Informação e em paralelo estou realizando alguns cursos/projetos para ganhar experiência.
 
